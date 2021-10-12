@@ -19,7 +19,7 @@
     },
     "license": "Unlicense",
     "publishConfig": {
-        "registry": "http://registry.npmjs.org"
+        "registry": "https://registry.npmjs.org"
     },
     "scripts": {
         "test": "npm run test_module && jest --config=jest.config-ts.cjs --passWithNoTests",
